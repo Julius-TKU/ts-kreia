@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/ts-kreia/static/js/main.05a1867b.chunk.js",
+    "main.js.map": "/ts-kreia/static/js/main.05a1867b.chunk.js.map",
+    "runtime-main.js": "/ts-kreia/static/js/runtime-main.de390958.js",
+    "runtime-main.js.map": "/ts-kreia/static/js/runtime-main.de390958.js.map",
+    "static/css/2.94aac401.chunk.css": "/ts-kreia/static/css/2.94aac401.chunk.css",
+    "static/js/2.ee80e8fe.chunk.js": "/ts-kreia/static/js/2.ee80e8fe.chunk.js",
+    "static/js/2.ee80e8fe.chunk.js.map": "/ts-kreia/static/js/2.ee80e8fe.chunk.js.map",
+    "index.html": "/ts-kreia/index.html",
+    "precache-manifest.a32e6529f2855347936b97b597a96a1b.js": "/ts-kreia/precache-manifest.a32e6529f2855347936b97b597a96a1b.js",
+    "service-worker.js": "/ts-kreia/service-worker.js",
+    "static/css/2.94aac401.chunk.css.map": "/ts-kreia/static/css/2.94aac401.chunk.css.map",
+    "static/js/2.ee80e8fe.chunk.js.LICENSE": "/ts-kreia/static/js/2.ee80e8fe.chunk.js.LICENSE",
+    "static/media/post.md": "/ts-kreia/static/media/post.227eb1d9.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de390958.js",
+    "static/css/2.94aac401.chunk.css",
+    "static/js/2.ee80e8fe.chunk.js",
+    "static/js/main.05a1867b.chunk.js"
+  ]
+}
