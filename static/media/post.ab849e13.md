@@ -1,3 +1,9 @@
+
+### 這下面全是Redux的官方md文件，不用看了w
+### 基本上就是拿來展示一下之後大概的樣式
+
+----------------------------------------
+
 ```js
 var React = require('react');
 var Markdown = require('react-markdown');
