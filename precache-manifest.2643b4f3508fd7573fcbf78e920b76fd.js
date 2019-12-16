@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc634b14443b30fb8f57541e7b093d08",
+    "revision": "9fdfc1ad3d63c0b4b5ca64152bbe6ff5",
     "url": "/ts-kreia/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ts-kreia/static/js/2.ee80e8fe.chunk.js.LICENSE"
   },
   {
-    "revision": "3536b5a039ed717b0b20",
-    "url": "/ts-kreia/static/js/main.05a1867b.chunk.js"
+    "revision": "8632866f4ee4411b0233",
+    "url": "/ts-kreia/static/js/main.5ed8950e.chunk.js"
   },
   {
     "revision": "ead3e53e3f139da15e44",
