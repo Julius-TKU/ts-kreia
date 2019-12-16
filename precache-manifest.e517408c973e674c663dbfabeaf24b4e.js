@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42abeefa8234c87c98bba13819369b54",
+    "revision": "bc634b14443b30fb8f57541e7b093d08",
     "url": "/ts-kreia/index.html"
   },
   {
-    "revision": "1b9d619ea839b4e2ecc0",
-    "url": "/ts-kreia/static/css/2.94aac401.chunk.css"
+    "revision": "40b8deff2763e50887c6",
+    "url": "/ts-kreia/static/css/2.ef844b3d.chunk.css"
   },
   {
-    "revision": "1b9d619ea839b4e2ecc0",
+    "revision": "40b8deff2763e50887c6",
     "url": "/ts-kreia/static/js/2.ee80e8fe.chunk.js"
   },
   {
