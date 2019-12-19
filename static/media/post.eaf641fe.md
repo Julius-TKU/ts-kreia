@@ -2,7 +2,7 @@
 ### 這下面全是Redux的官方md文件，不用看了w
 ### 基本上就是拿來展示一下之後大概的樣式
 
-----------------------------------------
+-----------------------------
 
 ```js
 var React = require('react');
@@ -13,7 +13,9 @@ React.render(
   document.getElementById('content')
 );
 ```
-
+> 母湯喔
+> 母湯喔xx
+> 你好母湯
 Redux is a predictable state container for JavaScript apps.  
 (Not to be confused with a WordPress framework – [Redux Framework](https://reduxframework.com/).)
 

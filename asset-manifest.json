@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ts-kreia/static/css/main.36ed746a.chunk.css",
-    "main.js": "/ts-kreia/static/js/main.f6aaf4c8.chunk.js",
-    "main.js.map": "/ts-kreia/static/js/main.f6aaf4c8.chunk.js.map",
+    "main.css": "/ts-kreia/static/css/main.baf1bf28.chunk.css",
+    "main.js": "/ts-kreia/static/js/main.f7a01b51.chunk.js",
+    "main.js.map": "/ts-kreia/static/js/main.f7a01b51.chunk.js.map",
     "runtime-main.js": "/ts-kreia/static/js/runtime-main.de390958.js",
     "runtime-main.js.map": "/ts-kreia/static/js/runtime-main.de390958.js.map",
-    "static/css/2.ee6f8bb2.chunk.css": "/ts-kreia/static/css/2.ee6f8bb2.chunk.css",
-    "static/js/2.b071a53b.chunk.js": "/ts-kreia/static/js/2.b071a53b.chunk.js",
-    "static/js/2.b071a53b.chunk.js.map": "/ts-kreia/static/js/2.b071a53b.chunk.js.map",
+    "static/css/2.2b54b2fb.chunk.css": "/ts-kreia/static/css/2.2b54b2fb.chunk.css",
+    "static/js/2.e28d276a.chunk.js": "/ts-kreia/static/js/2.e28d276a.chunk.js",
+    "static/js/2.e28d276a.chunk.js.map": "/ts-kreia/static/js/2.e28d276a.chunk.js.map",
     "index.html": "/ts-kreia/index.html",
-    "precache-manifest.c99ae91197d675958f5ddadb6669c866.js": "/ts-kreia/precache-manifest.c99ae91197d675958f5ddadb6669c866.js",
+    "precache-manifest.358920cbee7fdc197ad5dd99f3f9aca9.js": "/ts-kreia/precache-manifest.358920cbee7fdc197ad5dd99f3f9aca9.js",
     "service-worker.js": "/ts-kreia/service-worker.js",
-    "static/css/2.ee6f8bb2.chunk.css.map": "/ts-kreia/static/css/2.ee6f8bb2.chunk.css.map",
-    "static/css/main.36ed746a.chunk.css.map": "/ts-kreia/static/css/main.36ed746a.chunk.css.map",
-    "static/js/2.b071a53b.chunk.js.LICENSE": "/ts-kreia/static/js/2.b071a53b.chunk.js.LICENSE",
-    "static/media/post.md": "/ts-kreia/static/media/post.ab849e13.md"
+    "static/css/2.2b54b2fb.chunk.css.map": "/ts-kreia/static/css/2.2b54b2fb.chunk.css.map",
+    "static/css/main.baf1bf28.chunk.css.map": "/ts-kreia/static/css/main.baf1bf28.chunk.css.map",
+    "static/js/2.e28d276a.chunk.js.LICENSE": "/ts-kreia/static/js/2.e28d276a.chunk.js.LICENSE",
+    "static/media/post.md": "/ts-kreia/static/media/post.eaf641fe.md"
   },
   "entrypoints": [
     "static/js/runtime-main.de390958.js",
-    "static/css/2.ee6f8bb2.chunk.css",
-    "static/js/2.b071a53b.chunk.js",
-    "static/css/main.36ed746a.chunk.css",
-    "static/js/main.f6aaf4c8.chunk.js"
+    "static/css/2.2b54b2fb.chunk.css",
+    "static/js/2.e28d276a.chunk.js",
+    "static/css/main.baf1bf28.chunk.css",
+    "static/js/main.f7a01b51.chunk.js"
   ]
 }
